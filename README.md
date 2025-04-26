@@ -1,2 +1,2 @@
-# Authentication-System-flutter-firebase
-Authentication system using flutter and firebase
+# flutter login app
+login app using flutter
